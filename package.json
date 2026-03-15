@@ -1,0 +1,24 @@
+{
+  "name": "#-( 2025 ) RilzX7",
+  "version": "1.0.0",
+  "description": "#RilzX7",
+  "main": "index.js",
+  "scripts": {
+    "start": "node RilzX7.js"
+  },
+  "author": "RilzX7",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "github:RILLYZY/bails",
+    "telegraf": "^4.12.2",
+    "pino": "^7.0.5",
+    "crypto": "latest",
+    "chalk": "^4.1.2",
+    "axios": "^0.24.0",
+    "node-fetch": "^2.6.7",
+    "fs": "latest"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
